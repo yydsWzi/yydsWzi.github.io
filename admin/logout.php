@@ -1,3 +1,0 @@
-<?php
-/* 作者QQ：2769544753，倒卖者全家被大运撞死~ */
- goto zqWkvrmcVu; eNRQjOp2sF: $token = $_POST["\x63\163\x72\x66\137\164\x6f\x6b\145\156"] ?? ''; if (!(is_logged_in() && verify_csrf($token))) { goto DtN8_57_Z8; } logout(); DtN8_57_Z8: header("\114\x6f\x63\x61\164\151\157\x6e\x3a\40\x69\156\x64\x65\170\56\160\150\160"); goto aSlEPqHVX4; zqWkvrmcVu: require_once __DIR__ . "\57\141\165\x74\150\56\x70\150\x70"; if (!($_SERVER["\122\x45\121\125\105\123\124\x5f\x4d\x45\x54\x48\117\104"] !== "\120\117\x53\x54")) { goto Fa47KK91ia; } header("\114\157\x63\x61\x74\151\x6f\156\72\x20\151\x6e\x64\145\x78\56\x70\150\160"); exit; Fa47KK91ia: goto eNRQjOp2sF; aSlEPqHVX4: exit;
